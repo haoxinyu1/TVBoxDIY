@@ -1,6 +1,4 @@
-
 {
-
 "搜索模式":"0",
 "搜索后缀":"/video/",
 "搜索副标题":"",
@@ -12,10 +10,10 @@
 "链接":"href=\"&&\"",
 "副标题":"module-item-caption\"><span>&&</span>",
 
-"影片类型":"<div class=\"module-info-tag\">&&立即播放",
+"影片类型":"class=\"tag-link\"&&立即播放",
 "导演":"导演: </span>&&</div>",
 "主演":"主演：</span>&&</div>",
-"简介":"<p>&&</p>",
+"简介":"description\" content=\"&&\"",
 
 "线路数组":"dropdown-value=&&</div>",
 "线路标题":"💕+<span>&&</span>+💕",
