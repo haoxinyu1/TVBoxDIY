@@ -1,0 +1,29 @@
+{
+"分类url":"https://dianyi.ng/pianku-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/;;mkd0",
+"分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+"数组":"<div class=\"module-item-cover\">&&/div></div>",
+"副标题":"<div class=\"module-item-text\">&&<",
+"导演":"导演：&&</div",
+"主演":"主演：&&</div",
+"简介":"剧情：&&</div",
+"过滤词":"=http#.jpg#.png#.ico#.gif#.js",
+
+"搜索模式":"1",
+"搜索二次截取":"",
+"搜索url":"https://dianyi.ng/search--------------.html?wd={wd}",
+"搜索标题":"title=\"&&\"",
+"搜索副标题":"title=*\">&&</a>",
+"搜索链接":"href=\"&&\"",
+"搜索后缀":"/show-",
+
+"线路数组":"ta-dropdown-value=\"&&</div>",
+"线路标题":"\">&&</span>[不包含:FF节点1]",
+"播放数组":"class=\"scroll-content\">&&</div>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&</span>",
+"播放链接":"href=\"&&\"",
+"跳转播放链接":"https://dianyi.ng/player/?url=+urlDecode(\"url\":\"&&\")",
+"二次跳转播放链接":"\"url\"*\"&&\"",
+"头部集合":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$https://dianyi.ng/"
+}
+
