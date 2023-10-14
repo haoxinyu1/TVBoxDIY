@@ -1,4 +1,4 @@
-name: APK-J Build
+name: APK-T Build
 
 on:
 #  push:
@@ -15,11 +15,11 @@ jobs:
         with:
           fetch-depth: 0
       - name: Clone Project
-        run: git clone -b main --depth=1 https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile
+        run: git clone -b main --depth=1 https://github.com/yunboxtvj/TVBoxOS
       - name: DIY
         run: |
-          chmod +x diy-J.sh
-          bash ${{ github.workspace }}/diy-J.sh
+          chmod +x diy-T.sh
+          bash ${{ github.workspace }}/diy-T.sh
       - name: Build With Gradle
         run: |
           num=$(find ${{ github.workspace }} -name gradlew  | awk -F"/" '{print NF-1}')
