@@ -6,7 +6,7 @@
 {"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
-{"key":"Live2Vod","name":"电视 | 直播","type":3,"api":"csp_Live2Vod","searchable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://cdn.jsdelivr.net/gh/zhixc/CatVodTVSpider/pic/live.png"},
+{"key":"Live2Vod","name":"电视 | 直播","type":3,"api":"csp_Live2Vod","searchable":0,"ext":"南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://agit.ai/lengniuge/api/raw/branch/master/lo.png"},
 {"key":"MV_vod","name":"MV | 音乐","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod","changeable":0,"style":{"type":"oval"}},
 {"key":"drpy_js_篮球直播","name":"体育 | 88看球[js]","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/yu/gao/raw/branch/master/js/88看球.js"},
 {"key":"drpy_js_喜马拉雅","name":"听书 | 喜马拉雅[js]","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://agit.ai/yu/gao/raw/branch/master/js/喜马拉雅.js"},
