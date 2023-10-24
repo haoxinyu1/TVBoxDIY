@@ -27,7 +27,6 @@
 {"key":"sssp_open","name":"影视 | 速搜","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/cat/js/sssp_open.js"},
 {"key":"bulei_open","name":"影视 | 布雷","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/cat/js/bulei_open.js"},
 {"key":"miku_open","name":"影视 | 咪咕","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/cat/js/miku_open.js"},
-{"key":"yzys","name":"影视 | 柚子","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/cat/js/yzys.js"},
 {"key":"yrzj","name":"影视 | 伊人","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/cat/js/yrzj.js"},
 {"key":"tutu_open","name":"影视 | 图图","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/cat/js/tutu_open.js"},
 {"key":"jojo_open","name":"影视 | jojo","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/cat/js/jojo_open.js"},
