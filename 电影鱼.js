@@ -35,7 +35,7 @@ var rule = {
     lazy:'',
     limit:40,
     一级:'.module-items .module-item;a&&title;img&&data-src;.module-item-text&&Text;a&&href',
-    二级:{"title":"h1&&Text;.video-info-aux&&Text","img":".mobile-play&&img&&data-src","desc":".video-info-items:eq(0)&&Text;.video-info-aux&&a:eq(3)&&Text;.video-info-aux&&a:eq(-1)&&Text;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text","content":".video-info-content&&Text","tabs":".module-tab-content&&span","lists":".sort-item:eq(#id) a"},
+    二级:{"title":"h1&&Text;.video-info-aux&&Text","img":".mobile-play&&img&&data-src","desc":".video-info-items:eq(0)&&Text;.video-info-aux&&a:eq(-2)&&Text;.video-info-aux&&a:eq(-1)&&Text;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text","content":".video-info-content&&Text","tabs":".module-tab-content&&span","lists":".sort-item:eq(#id) a"},
     搜索:'.module-items;h3&&Text;img&&data-src;a&&Text;a&&href',
 }
 
