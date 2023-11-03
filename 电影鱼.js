@@ -26,7 +26,7 @@ var rule = {
         'User-Agent':'MOBILE_UA',
         // "Cookie": "searchneed=ok"
     },
-    //class_parse:'.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
+     //class_parse:'.nav-menu-items&&li;a&&Text;a&&href;.*/(.*?).html',
     class_name:'电影&电视剧&动漫&综艺',
 	class_url:'1&2&44&4',
     推荐:'.module-items;.module-item&&.module-item-cover;img&&alt;img&&data-src;.module-item-text&&Text;a&&href',
