@@ -1,7 +1,7 @@
 {
 //本地jar
 //"spider": "clan://Download/Y.jar;md5;d0e6073a0756e4daecfb56f8685ef950",
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/yunboxtvj/TVBoxDIY/main/Y1.jar;md5;9d5f3e660b1211f67d5c3b02456cd2c7",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/yunboxtvj/TVBoxDIY/main/Y1.jar;md5;3e7e24756c89c640b31b76a9bb621839",
 "lives":[{"name":"初秋语","type":0,"url":"https://agit.ai/yu/gao/raw/branch/master/list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
@@ -16,6 +16,8 @@
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/yu/gao/raw/branch/master/js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"csp_Kunyu77","name":"影视 | 👒酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"一起看 ","name":"影视 | 🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Bilituys","name":"影视 | 哔哩兔","type":3,"api":"csp_Bilituys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_NongMing","name":"影视 | 农民","type":3,"api":"csp_NongMing","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"drpy_js_酷云77","name":"影视 | 酷云77[js]","type":3,"api":"https://agit.ai/yu/gao/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/yu/dr/raw/branch/main/js/酷云77.js"},
 {"key":"毛驴","name":"影视┃毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"蚂蚁","name":"影视┃蚂蚁","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://rzys.xyz"},
